@@ -1,0 +1,4 @@
+This is a string
+Another string
+Third line with useless information
+Fourth line with the last charactes
